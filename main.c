@@ -95,7 +95,7 @@ void draw_cube(Point** cube, SDL_Surface* surface) {
   }
 }
 
-int main() {
+int main(int argc, char** argv) {
   
   SDL_Init(SDL_INIT_VIDEO);
 
